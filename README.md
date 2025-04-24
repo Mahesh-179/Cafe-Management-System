@@ -17,7 +17,7 @@ Take customer orders
 
 Store items and quantities
 
-Calculate total price including tax
+Calculate total price 
 
 Generate and display the final bill/receipt
 
